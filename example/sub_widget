@@ -1,0 +1,47 @@
+{
+	"title": "Alien Price",
+	"data": [
+		{
+			"title": "当日",
+			"value": "+1,150.12"
+		},
+		{
+			"title": "7日",
+			"value": "+5,850.43"
+		},
+		{
+			"title": "3日",
+			"value": "+2,551.65"
+		}
+	],
+	"chart": [
+		{
+			"title": "-14日",
+			"value": 27
+		},
+		{
+			"value": 729
+		},
+		{
+			"value": 125
+		},
+		{
+			"title": "-7日",
+			"value": 1000
+		},
+		{
+			"value": 3375
+		},
+		{
+			"value": 1728
+		},
+		{
+			"title": "-1日",
+			"value": 5832
+		},
+		{
+			"value": 6859
+		}
+	],
+	"chart_hint": 0
+}
